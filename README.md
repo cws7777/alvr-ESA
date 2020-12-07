@@ -9,6 +9,10 @@ The ESA uses a large-scale lexical database, WordNet and Intersection of Union (
 
 Language and vision research has attracted great attention from both natural language processing (NLP) and computer vision(CV) researcgers. Gradually, this area is shifting from passive perception, templated laguage, and synthetic imagery/environments to active perception, natural language, and photo-realistic simulation or real world deployment. Thus far, few workshops on Language and Vision Research have been organized by groups from the NLP community. We propose the first workshop on Advances in Language and Vision Research (**ALVR**) in order to promote the frontier of language and vision research and to bring interested researchers together to discuss how to best tackle and solve real-world problems in this area.
 
+## Acknowledgement
+This work was partly supported by the Institute for Information and Communications Technology Promotion (2015-0-00310-SW.StarLab, 2017-0-01772-VTT, 2018-0-00622-RMI, 2019-0-01367-BabyMind) and Korea Institute for Advancement Technology (P0006720-GENKO) grant funded by the Korea government.
+
+
 ## Citation
 If you use this code, please cite the following paper:
 ```
