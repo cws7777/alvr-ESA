@@ -13,7 +13,7 @@ Language and vision research has attracted great attention from both natural lan
 This work was partly supported by the Institute for Information and Communications Technology Promotion (2015-0-00310-SW.StarLab, 2017-0-01772-VTT, 2018-0-00622-RMI, 2019-0-01367-BabyMind) and Korea Institute for Advancement Technology (P0006720-GENKO) grant funded by the Korea government.
 
 ## License
-MIT License
+This project is licensed under the license found in the LICENSE file in the root directory of this source tree.
 
 ## Citation
 If you use this code, please cite the following paper:
